@@ -1,4 +1,4 @@
-name: Configs/Phicomm-n1
+name: Phicomm-n1
 
 on:
   repository_dispatch:
