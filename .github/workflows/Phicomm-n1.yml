@@ -13,7 +13,7 @@ on:
       openwrt_board:
         description: "Select Amlogic board"
         required: false
-        default: "all"
+        default: "s905d"
         type: choice
         options:
           - all
