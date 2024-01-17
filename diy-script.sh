@@ -4,6 +4,7 @@ rm -rf feeds/luci/applications/luci-app-wechatpush
 rm -rf feeds/luci/applications/luci-app-openclash
 rm -rf feeds/luci/applications/luci-app-passwall
 rm -rf feeds/luci/applications/luci-app-pushbot
+rm -rf feeds/luci/applications/luci-app-aliyundrive-webdav
 rm -rf feeds/packages/net/msd_lite
 
 # msd_lite
