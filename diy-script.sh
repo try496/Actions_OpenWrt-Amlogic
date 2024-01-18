@@ -4,7 +4,6 @@ rm -rf feeds/luci/applications/luci-app-wechatpush
 rm -rf feeds/luci/applications/luci-app-openclash
 rm -rf feeds/luci/applications/luci-app-passwall
 rm -rf feeds/luci/applications/luci-app-pushbot
-rm -rf feeds/luci/applications/luci-app-aliyundrive-webdav
 rm -rf feeds/packages/net/msd_lite
 
 # msd_lite
@@ -16,9 +15,6 @@ git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
 
 # wechatpush
 git clone -b openwrt-18.06 https://github.com/tty228/luci-app-wechatpush.git package/luci-app-wechatpush
-
-# aliyundrive-webdav
-git clone https://github.com/messense/aliyundrive-webdav.git -b main package/aliyundrive-webdav
 
 # 晶晨盒子
 git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
